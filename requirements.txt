@@ -77,3 +77,4 @@ torchao==0.13.0
 notebook==7.4.5
 nbconvert==7.16.6
 pandoc==2.4
+torch-ema==0.3
