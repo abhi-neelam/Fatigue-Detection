@@ -79,3 +79,8 @@ nbconvert==7.16.6
 pandoc==2.4
 torch-ema==0.3
 wandb==0.22.0
+PyYAML==6.0.3
+pytorch-lightning==2.5.5
+torchmetrics==1.8.2
+timm==1.0.20
+medmnist==3.0.2
