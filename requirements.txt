@@ -84,3 +84,4 @@ pytorch-lightning==2.5.5
 torchmetrics==1.8.2
 timm==1.0.20
 medmnist==3.0.2
+pyinstrument==5.1.1
