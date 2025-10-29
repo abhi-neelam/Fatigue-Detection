@@ -37,7 +37,7 @@ This project uses a novel hybrid deep learning model known as **DeepConvLSTM wit
 -   **91% F1-Score** using the **1D-CNN Baseline** Architecture
 -   **97% F1-Score** using **DeepConvLSTM with Self-Attention** Architecture
 
-![Confusion Matrix using the new architecture](results/cm_personalised_test_deepconvlstmself-attention.png "Confusion Matrix using the new architecture")
+![Confusion Matrix using the new architecture](results/LF_cm_personalised_deepconvlstmself-attention.png "Confusion Matrix using the new architecture")
 
 ### Future Ideas
 
